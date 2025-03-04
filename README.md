@@ -31,7 +31,7 @@ Tools that I use:
 - Nginx Load-balancing - [link](https://github.com/0xtr1gger/nginx_load_balancing)
 - Static website on AWS S3 - [link](https://github.com/0xtr1gger/aws_S3_static_website)
 - Kubernetes MOOC from the University of Helsinki - [link](https://github.com/0xtr1gger/mooc-devops-with-kubernetes)
-- Upcoming: Jenkins deployment on Azure Kubernetes cluster
+- \[Under development\] Jenkins deployment on Azure Kubernetes cluster - [link](https://github.com/0xtr1gger/jenkins_on_kubernetes)
 
 <!--
 **0xtr1gger/0xtr1gger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
