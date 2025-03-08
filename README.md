@@ -6,7 +6,7 @@
 - Currently pursuing an engineering degree in Computer Science (Cybersecurity)
 - btw I use Arch [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
-- Technical blob on Medium: https://medium.com/@0xtr1gger
+- Technical blog on Medium: https://medium.com/@0xtr1gger
 
 Tools that I use:
 
